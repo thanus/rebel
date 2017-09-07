@@ -1,7 +1,7 @@
 module atm.AtmWithdrawal
 
 import atm.Library
-import simple_transaction.Account
+import atm.Account
 
 @doc{
 	This is a specification of a toy ATM withdrawal.

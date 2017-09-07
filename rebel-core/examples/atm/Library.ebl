@@ -1,6 +1,6 @@
 module atm.Library
 
-import simple_transaction.Account
+import atm.Account
 
 @doc {
 	Start a new atm withdrawal.
